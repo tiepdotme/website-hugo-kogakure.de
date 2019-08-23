@@ -8,7 +8,7 @@ body_class: 'grid--small'
 
 ## Fachmagazin für Ninja, Ninjutsu und Kampfkunst
 
-Dies ist kogakure.de. Seit 1999 kann man hier Artikel, Textsammlungen und Übersetzungen zu Themen rund um die japanischen Schattenkrieger und Spione, die _Ninja_, und deren Kampfkunst _Ninjutsu_ lesen.
+Dies ist daidot.com. Seit 1999 kann man hier Artikel, Textsammlungen und Übersetzungen zu Themen rund um die japanischen Schattenkrieger und Spione, die _Ninja_, und deren Kampfkunst _Ninjutsu_ lesen.
 
 Die Idee dazu wurde von [Stefan Imhoff], einem Designer, Entwickler und Kampfkünstler aus Wolfsburg (heute aus Hamburg) entwickelt und umgesetzt.
 
@@ -20,7 +20,7 @@ Seit Anfang der 90er, ursprünglich wahrscheinlich durch die Teenage Mutant [Her
 
 Damals war das [Bujinkan] in Deutschland nur spärlich zu finden, eine Trainingsmöglichkeit nahezu unmöglich zu finden. Auch die erhältliche Fachliteratur war mehr als dürftig.
 
-Auf der Suche nach Wissen, Hintergrundinformationen und Informationen sammelte sich im Laufe der Zeit eine Notizsammlung an, die in kogakure.de verarbeitet wurde.
+Auf der Suche nach Wissen, Hintergrundinformationen und Informationen sammelte sich im Laufe der Zeit eine Notizsammlung an, die in daidot.com verarbeitet wurde.
 
 Diese Seite erhebt keinen Anspruch auf Vollständigkeit, oder nach absoluter, belegbarer, geschichtlicher Beweise. Sie soll allen _bugeisha_ (Kriegern) helfen, mehr über die Weisheiten dieser über tausend Jahre alten Kunst zu erfahren.
 
@@ -70,7 +70,7 @@ Seit es Buchversender wie z. B. [Amazon] gibt, sollte es keine Problem mehr dar
 
 ### Ich möchte auf eine Seite verlinken. Was ist zu beachten?
 
-Es ist generell untersagt die Verlinkung in einem Frame zu verwirklichen, bei dem **kogakure.de** nicht mehr als Urheber erkennbar ist. Du darfst gerne auf jede Seite dieser Domain verlinken.
+Es ist generell untersagt die Verlinkung in einem Frame zu verwirklichen, bei dem **daidot.com** nicht mehr als Urheber erkennbar ist. Du darfst gerne auf jede Seite dieser Domain verlinken.
 
 Bilder, Photos und andere Medien dürfen **nicht direkt verlinkt werden**, wohl aber heruntergeladen und auf eigene Server gestellt werden (so lange die Regeln der Creative Commons Lizenz eingehalten werden).
 

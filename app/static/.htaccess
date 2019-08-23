@@ -297,7 +297,7 @@ AddDefaultCharset utf-8
 
   # Enforce Domain
   RewriteCond %{HTTP_HOST} !^kogakure\.de$
-  RewriteRule ^(.*)$ http://kogakure.de/$1 [R=301,L]
+  RewriteRule ^(.*)$ http://daidot.com/$1 [R=301,L]
 
   # Ensure SSL
   RewriteCond %{ENV:HTTPS} !=on

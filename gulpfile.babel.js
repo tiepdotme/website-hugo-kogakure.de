@@ -389,7 +389,7 @@ task('generate-service-worker', (callback) => {
  */
 task('pagespeed', (callback) =>
   pagespeed(
-    'kogakure.de',
+    'daidot.com',
     {
       strategy: 'mobile'
     },

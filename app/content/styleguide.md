@@ -205,7 +205,7 @@ Es gibt eine Vielzahl von Inline-HTML-Elementen, die überall in anderen Element
 
 Das Element `a` wird verwendet um Text zu verlinken, ob auf eine andere Seite, ein benanntes Fragment der aktuellen Seite oder auf einen anderen Ort im Internet:
 
-[Gehe zur Startseite zurück](/),  [Springe zum Anfang der Seite](#top) oder besuche eine [fantastische Website im Internet](https://www.kogakure.de).
+[Gehe zur Startseite zurück](/),  [Springe zum Anfang der Seite](#top) oder besuche eine [fantastische Website im Internet](https://daidot.com).
 
 
 ### Betonte Texte

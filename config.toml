@@ -1,5 +1,5 @@
-title        = "kogakure.de - Ninja, Ninjutsu und Kampfkunst"
-baseURL      = "https://www.kogakure.de/"
+title        = "daidot.com - Ninja, Ninjutsu und Kampfkunst"
+baseURL      = "https://daidot.com/"
 languageCode = "de"
 
 metaDataFormat  = "yaml"

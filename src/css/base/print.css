@@ -100,7 +100,7 @@
   }
 
   p a::after {
-    content: " (https://www.kogakure.de/" attr(href) ")";
+    content: " (https://daidot.com/" attr(href) ")";
   }
 
   p a[href^="#"]::after {

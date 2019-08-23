@@ -1,8 +1,8 @@
 {
-  "name": "kogakure.de",
+  "name": "daidot.com",
   "private": true,
   "version": "1.0.2",
-  "description": "Relaunch of kogakure.de with Hugo",
+  "description": "Relaunch of daidot.com with Hugo",
   "author": "Stefan Imhoff",
   "license": "CC-BY-NC-SA",
   "scripts": {
@@ -25,13 +25,13 @@
   "keywords": [
     "hugo"
   ],
-  "homepage": "https://www.kogakure.de",
+  "homepage": "https://daidot.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogakure/website-hugo-kogakure.de.git"
+    "url": "git+https://github.com/kogakure/website-hugo-daidot.com.git"
   },
   "bugs": {
-    "url": "https://github.com/kogakure/website-hugo-kogakure.de/issues"
+    "url": "https://github.com/kogakure/website-hugo-daidot.com/issues"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",

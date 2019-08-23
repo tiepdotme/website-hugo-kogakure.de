@@ -164,7 +164,7 @@ Im Rahmen der Überarbeitung behebe ich zahlreiche Fehler, schaue über jeden Ar
 
 ### 13. August 2017
 
-Da Jekyll sehr langsam rendert und ich auch schon meine [private Website](https://www.stefanimhoff.de) mit dem statischen Seitengenerator [Hugo](https://gohugo.io/) ersetzt hatte, war es nur der nächste logische Schritt das auch für kogakure.de zu machen.
+Da Jekyll sehr langsam rendert und ich auch schon meine [private Website](https://www.stefanimhoff.de) mit dem statischen Seitengenerator [Hugo](https://gohugo.io/) ersetzt hatte, war es nur der nächste logische Schritt das auch für daidot.com zu machen.
 
 Gleichzeitig konnte ich die ganze Website noch einmal überarbeiten, einige kleinere grafische Änderungen vornehmen und die Homepage komplett neu gestalten.
 

@@ -34,7 +34,7 @@ Die nachfolgende Erklärung gibt Ihnen einen Überblick darüber, wie ich diesen
 
 ### Datenverarbeitung auf dieser Internetseite
 
-kogakure.de erhebt und speichert automatisch in ihren Server Log Files Informationen, die Ihr Browser an mich übermittelt. Dies sind:
+daidot.com erhebt und speichert automatisch in ihren Server Log Files Informationen, die Ihr Browser an mich übermittelt. Dies sind:
 
 - Browsertyp/-version
 - verwendetes Betriebssystem

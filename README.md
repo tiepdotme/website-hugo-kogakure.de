@@ -1,9 +1,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ee50c303-884e-4f40-88a9-754fb6cabce4/deploy-status)](https://app.netlify.com/sites/kogakure-de/deploys)
-[![Live](https://img.shields.io/badge/live-kogakure.de-green.svg)](https://www.kogakure.de/)
+[![Live](https://img.shields.io/badge/live-daidot.com-green.svg)](https://daidot.com/)
 ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
-![GitHub tag](https://img.shields.io/github/tag/kogakure/website-hugo-kogakure.de.svg)
+![GitHub tag](https://img.shields.io/github/tag/kogakure/website-hugo-daidot.com.svg)
 
-# kogakure.de
+# daidot.com
 
 This is the source of my [martial arts website][kogakure] build with [Hugo][hugo] and [Gulp.js][gulp].
 
@@ -74,7 +74,7 @@ All content is copyrighted by [Stefan Imhoff][si] unless otherwise stated. Feel 
 
 In easier words: **This is not a free theme**. Learn from it. Remix. Reuse. Build your own stuff.
 
-[kogakure]: https://www.kogakure.de
+[kogakure]: https://daidot.com
 [hugo]: http://gohugo.io/
 [gulp]: https://gulpjs.com/
 [yarn]: https://yarnpkg.com
